@@ -43,3 +43,4 @@ group :development, :test do
 end
 gem 'sprockets', '2.11.0'
 gem 'bootstrap-sass', '~> 3.3.6'
+gem 'simple_form'
